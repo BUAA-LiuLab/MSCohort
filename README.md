@@ -7,7 +7,7 @@ MSCohort is a tool for extracting comprehensive metrics and assisting users in e
 More importantly, MSCohort provides a comprehensive quality assessment report for large-scale experiments, which assists in detecting the variations across experiments and instruments, flagging low-performing experiments, and correcting the heterogeneity between experiments, to facilitate data quality control and experimental standardization with large cohort studies. It enables the analysis of vendor data generated from Thermo Orbitrap, Bruker timsTOF, and SCIEX ZenoTOF instruments. Taken together, these features make MSCohort a valuable software tool for evaluating and optimizing the performance of experiments for large cohort proteomics studies.
 
 # Demo dataset
-The demo dataset has been deposited to the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD050389 (in ProteomeXchange) and IPX0008331000 (in iProX). You can download this dataset for testing and using MSCohort.
+The demo dataset has been deposited to the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD057133 (in ProteomeXchange) and IPX0010061000 (in iProX). You can use the following link https://www.iprox.cn/page/project.html?id=IPX0010061000 to download Demo dataset for testing and using MSCohort.
 
 # Computer configuration
 RAM: 16G or higher is recommended
